@@ -132,11 +132,12 @@ background:0 0
 #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: navy
+    background-color: navy;
 }
 #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
-    padding: 12px 0
+    padding: 12px 0;
+    background-color: navy;
 }
 }
 header.masthead {
